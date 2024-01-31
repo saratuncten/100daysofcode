@@ -1,2 +1,2 @@
 # 100daysofcode
-Results From 100 Days of Code Exercises
+Exercises and projects from the 100 Days of Code Python course in Udemy
